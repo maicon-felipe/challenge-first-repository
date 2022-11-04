@@ -6,6 +6,7 @@ Hello, this is my first public repository, here, I will put some useful links, i
 
 ## Useful links (English)
 [Basic markdown syntax](https://www.markdownguide.org/basic-syntax/)
+
 [W3Schools](https://www.w3schools.com/)
 
 ## Useful links (Portuguese)
